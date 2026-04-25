@@ -1,12 +1,13 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ridwan Oladapo
 
-## Full-Stack PHP/Laravel Developer
+### Full-Stack PHP/Laravel Developer
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [olaitanoladapo29@gmail.com](mailto:olaitanoladapo29@gmail.com)
-* 🚀  I'm currently working on [PQstack](https://pqstack.online)
+* 🌍  I'm based in Nigeria.
+* 🔭 Currently building scalable web platforms with Laravel.
+* 🚀  My most recent work is on [PQstack](https://pqstack.online).
 * 👥  I'm looking to collaborate on SaaS products, AI-driven applications, and real-world problem-solving platforms (Fintech • EdTech • AgriTech). Seeking to grow in Cloud Engineering (AWS), CI/CD pipelines, and system design for high-scale applications.
-* 💬  Ask me about Fun fact: I enjoy tackling complex data relationships and I’m a big fan of Afrobeats (Brymo 🎶)
+* 💬  Fun fact: I enjoy tackling complex data relationships and I’m a big fan of Afrobeats (Brymo 🎶).
+* ✉️  You can contact me at [olaitanoladapo29@gmail.com](mailto:olaitanoladapo29@gmail.com).
 
 ### 💻 Tech Skills:
 
